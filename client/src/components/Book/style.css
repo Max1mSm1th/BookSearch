@@ -1,0 +1,28 @@
+.btn-container {
+  float: right;
+}
+
+@media (max-width: 767px) {
+  .btn-container {
+    margin-bottom: 15px;
+  }
+}
+
+.btn-view {
+  box-shadow: none;
+  border-width: 0px;
+  border-radius: 30px;
+  color: #19B491;
+}
+
+.btn-view:hover {
+  box-shadow: none;
+  border-width: 0px;
+  border-radius: 30px;
+  color: white;
+  background-color: #19B491;
+}
+
+p {
+  text-align: justify;
+}

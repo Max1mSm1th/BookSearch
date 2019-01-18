@@ -1,0 +1,17 @@
+.list-group-item p {
+  font-size: 16px;
+}
+
+.list-group-item {
+  background-color: rgba(230, 235, 236, 0);
+  border-width: 0px;
+  border-bottom-width: 3px;
+  padding-bottom: 50px;
+  padding-top: 50px;
+}
+
+.img-thumbnail {
+  background-color: rgba(230, 235, 236, 0);
+  border-width: 0px;
+  border-radius: 10px;
+}

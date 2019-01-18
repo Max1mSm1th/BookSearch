@@ -1,0 +1,40 @@
+.form-group {
+    box-shadow: none;
+}
+
+.card{
+    box-shadow: none;
+    border-width: 1px;
+}
+
+.card-body {
+    background-color: #E9EEEF;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+
+.card-header {
+    background-color: rgba(25, 180, 144, 0.452);
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    padding-bottom: 5px;
+}
+
+.btn-search {
+    border-radius: 40px;
+    box-shadow: none;
+    padding: 10px;
+    padding-right: 14px;
+    padding-left: 14px;
+    color: #19B491;
+}
+
+.btn-search:hover {
+    background-color: #19B491;
+    border-radius: 40px;
+    box-shadow: none;
+    padding: 10px;
+    padding-right: 14px;
+    padding-left: 14px;
+    color: #E9EEEF;
+}
